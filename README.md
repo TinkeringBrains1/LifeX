@@ -1,18 +1,22 @@
 # **LifeX \- Disaster Saving App & Active Mesh**
+
 &nbsp;&nbsp;
 <div align="center">
 <img width="124" height="124" alt="lifex_logo" src="https://github.com/user-attachments/assets/b84ddc30-1ac3-42f6-9389-40bf80393678" />
 </div>
 &nbsp;&nbsp;
+
 During severe natural disasters (earthquakes, hurricanes), traditional cellular networks and Wi-Fi infrastructure collapse. Survivors are left trapped and disconnected, while rescue personnel lose precious "Golden Hour" response time blindly searching the rubble without remote triage capabilities.  
 Lifex is an emergency response platform built to solve this. It operates completely independent of cellular infrastructure, transforming standard smartphones into an active, low-power BLE mesh network.  
 Survivors can broadcast continuous SOS beacons with environmental data (like barometer depth) while offline. Rescue personnel use the app to actively scan the local environment, ping survivors, and utilize **Google Gemini AI** to automatically triage incoming distress signals based on medical severity.
+
 &nbsp;&nbsp;
 <div align="center">
 <img height="512" alt="Screenshot 2026-04-28 235302" src="https://github.com/user-attachments/assets/174b3171-5c51-4ed8-b247-f8948192c725" />
 <img height="512" alt="Screenshot 2026-04-28 235324" src="https://github.com/user-attachments/assets/e27a28c3-4578-4a56-b98f-47031f387a6d" />
 </div>
 &nbsp;&nbsp;
+
 ## **Core Architecture & Features**
 
 ### **1\. Native BLE Background Persistence**
