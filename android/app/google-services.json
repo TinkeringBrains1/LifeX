@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691238642887",
+    "project_id": "project-lifex",
+    "storage_bucket": "project-lifex.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691238642887:android:b6bef0d107f3e3ef8e8ae2",
+        "android_client_info": {
+          "package_name": "com.example.lifex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDL_2gEYdZ86gBDNJkGxoqGyJUadW9EDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
